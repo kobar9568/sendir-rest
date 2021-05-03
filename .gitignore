@@ -1,5 +1,8 @@
 # Execute binary
 sendir-rest
 
+# Package cache
+.go/
+
 # fresh
 tmp/
